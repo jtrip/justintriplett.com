@@ -1,6 +1,6 @@
 Title: Re: Pelican
 Date: 2014-11-21 13:49
-Category: /var/weblog
+Category: /var/log
 Tags: Python, Pelican, website, #ItsATrap
 
 

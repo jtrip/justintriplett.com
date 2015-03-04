@@ -1,6 +1,6 @@
 Title: BeagleBoneBlack - Acrylic Base
 Date: 2014-11-22 16:50
-Category: /usr/projects
+Category: /usr/bin
 Tags: BeagleBone Black, laser cutting, acrylic, DIY, CAD
 
 
