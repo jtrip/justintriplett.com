@@ -1,7 +1,7 @@
 Title: Re: Pelican
 Date: 2014-11-21 13:49
 Category: /var/log
-Tags: Python, Pelican, website, #ItsATrap
+Tags: Python, Pelican, website, #ItsATrap, Static Site Generators
 
 
 If you happen to have seen this site sometime durring the first 3 quarters of 2014 you would have noticed a change. Specifically from a CherryPy-BootstrappedSlate-website devoid of any content, to the content rich (hah) flat bootstrapped site which is being produced with Pelican now. Maybe you didn't notice these things, and maybe that is for the better. :)
@@ -12,7 +12,7 @@ It basically went like this:
 A) I want to get better at python.  
 B) I should have a website for this.  
 C) My website should use python.  
-D) I'm not good enough at python to make the website I want, from scratch. (yet)  
+D) I do not currently have the specific python skills to make the website I want, from scratch.  
 
 I looked into all the popular frameworks for making websites in python and actually learned a lot about them and when they would be used best. It took a lot of digging before I realized I didn't need something big and complex, and the simple features were more important to me. CherryPy looks like a very fun framework to build with, but I didn't want to build a system to just make posts, at least not yet. I wanted to write articles in markdown. I wanted tags on posts and pages, also different categories for posts. Of course I wanted Bootstrap or Foundation to makes things wonderfull, but I could add that to plain html... There was brief period where I considered going back to the stone age. I remember writting plain html by hand, it was fine... but then I wanted to dedupe my navigation code so I would use php includes... cough php? oh goodness no, I'm not going back to that.
 
