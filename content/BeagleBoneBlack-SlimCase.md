@@ -22,6 +22,9 @@ While working on what would have been the top plate, I encountered a problem. Th
 
 I have updated the bottom plate so the holes around the ports fit much tighter. I cut out the bottom plate from some bright neon orange acrylic and fastened it to my becent BBB, with some 4-40 bolts. M3 would be preferable but the only stuff I had was too short or two long. The result is pretty nice albeit very simple.
 
+_March 16th, 2015:_
+After some more consideration I have a good idea on how to make a top layer or two which will still be pleasing to me and my silly original concept. Hopefully I have time to work on that soon. :)
+
 <a href="https://www.flickr.com/photos/jtrip/15247775764" title="Untitled by Justin Triplett, on Flickr"><img src="https://farm9.staticflickr.com/8609/15247775764_75b4f821aa_q.jpg" width="150" height="150" alt="Untitled"></a>
 <a href="https://www.flickr.com/photos/jtrip/15247774834" title="  by Justin Triplett, on Flickr"><img src="https://farm8.staticflickr.com/7469/15247774834_6745632763_q.jpg" width="150" height="150" alt=" "></a>
 <a href="https://www.flickr.com/photos/jtrip/15682510158" title="  by Justin Triplett, on Flickr"><img src="https://farm8.staticflickr.com/7542/15682510158_8277c3bcfc_q.jpg" width="150" height="150" alt=" "></a>
