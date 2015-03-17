@@ -59,5 +59,8 @@ reboot and verify
     # init 6
     # wait
     # cat /my-mount/testA
-    #### complete!
+
+And that's that!
+
+Of course you don't have to use sed or awk, but I find it convenient instead of copy and paste and for listing the commands that will get the job done... and really practicing with awk and sed is great!
 
