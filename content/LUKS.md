@@ -1,7 +1,7 @@
 Title: LUKS Encrypted Disk - Automounted
 Date: 2015-03-16 13:49
 Category: /var/log
-Tags: Linux, Encryption, RHCSA
+Tags: Linux, Encryption, RedHat, RHCSA, CentOS
 
 
 Today, I went to go take my RHCSA exam. However the kiosk shutoff while I was just getting started, so they told me I could come back in a couple of weeks....
