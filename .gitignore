@@ -1,2 +1,3 @@
 output/*
 *.py[cod]
+.c9/*
